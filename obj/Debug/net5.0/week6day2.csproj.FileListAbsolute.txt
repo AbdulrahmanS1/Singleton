@@ -1,0 +1,5 @@
+D:\Tuwaiq\ClassDesignPattern\week6day2\obj\Debug\net5.0\week6day2.csprojAssemblyReference.cache
+D:\Tuwaiq\ClassDesignPattern\week6day2\obj\Debug\net5.0\week6day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuwaiq\ClassDesignPattern\week6day2\obj\Debug\net5.0\week6day2.AssemblyInfoInputs.cache
+D:\Tuwaiq\ClassDesignPattern\week6day2\obj\Debug\net5.0\week6day2.AssemblyInfo.cs
+D:\Tuwaiq\ClassDesignPattern\week6day2\obj\Debug\net5.0\week6day2.csproj.CoreCompileInputs.cache
